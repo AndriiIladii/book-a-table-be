@@ -1,0 +1,17 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndriiIladii/book-a-table-be.git",
+  "author": "AndriiIladii <iladiy21@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "uuid": "^10.0.0"
+  }
+}

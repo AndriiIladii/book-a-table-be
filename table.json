@@ -1,0 +1,29 @@
+{
+  "tables": [
+    {
+      "name": "John",
+      "tableNumber": 21,
+      "phoneNumber": "+380954213412"
+    },
+    {
+      "name": "Bogdan",
+      "tableNumber": 11,
+      "phoneNumber": "+380954213412"
+    },
+    {
+      "name": "Igor",
+      "tableNumber": 15,
+      "phoneNumber": "+380954213412"
+    },
+    {
+      "name": "Eldar",
+      "tableNumber": 1,
+      "phoneNumber": "+380954213412"
+    },
+    {
+      "name": "Stas",
+      "tableNumber": 13,
+      "phoneNumber": "+380954213412"
+    }
+  ]
+}
